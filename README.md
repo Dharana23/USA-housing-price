@@ -1,1 +1,1 @@
-USA price=ing prediction model
+USA pricing prediction model
