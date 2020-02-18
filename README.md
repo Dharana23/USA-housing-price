@@ -1,1 +1,1 @@
-USA pricing prediction model
+USA pricing prediction model by linear regression
